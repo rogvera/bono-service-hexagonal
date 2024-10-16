@@ -17,5 +17,4 @@ public class ErrorMessageResponse {
     private List<String> details;
     private String path;
 
-
 }
